@@ -1,3 +1,9 @@
+# Librerias y framworks utilizadas
+```
+vue.js version 3.
+bootstrap
+axios
+```
 # technicaltest
 
 ## Project setup
@@ -22,3 +28,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
